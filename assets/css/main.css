@@ -1,0 +1,14 @@
+.backroundImg{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+.blockImg{
+    top : 0;
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+}
+.myNav{
+    height: 100px;
+}
